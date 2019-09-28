@@ -1,0 +1,1 @@
+usbstick -fstype=vfat,sync,uid=0,gid=46,umask=007 :/dev/disk/by-uuid/312C-632A
