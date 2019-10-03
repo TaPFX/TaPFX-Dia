@@ -2,10 +2,10 @@ instaliere python3
 instaliere autofs
 instaliere fbi
 
-raspberry in comandozeile starten lassen
+raspberry in comandozeile starten lassen nach bedarf wlan und ssh einrichten
 
 git nach /home/pi/ clonen
-$git clone git@github:
+$git clone git@github.com:TaPFX/TaPFX-Dia.git
 
 autorun at systemstart:
     sudo nano /etc/rc.local
